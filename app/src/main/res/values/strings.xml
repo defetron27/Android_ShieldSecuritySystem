@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shield Security System</string>
+    <string name="shield_security_system_s3">Shield Security System - S3</string>
+    <string name="security_btn">security_btn</string>
+    <string name="activate">Activate</string>
+    <string name="de_activate">De-Activate</string>
+    <string name="live_video">Live Video</string>
+    <string name="change_passcode">Change PassCode</string>
+    <string name="no_intrusion">No Intrusion</string>
+    <string name="intruder_detected">Intruder Detected</string>
+    <string name="alert">alert</string>
+    <string name="activate_by">Activate By</string>
+    <string name="de_activate_by">De-Activate By</string>
+    <string name="enter_pass_code">Enter Pass Code</string>
+    <string name="voice_code">Voice Code</string>
+    <string name="enter_the_code">Enter the code</string>
+    <string name="set_status">Set Status</string>
+    <string name="change_pass_code">Change Pass code</string>
+    <string name="activate_pass_code">Activate Pass Code</string>
+    <string name="de_activate_pass_code">Deactivate Pass Code</string>
+    <string name="change_code">Change Code</string>
+</resources>

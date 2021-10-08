@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937225253376",
+    "project_id": "iot-security-8ec28",
+    "storage_bucket": "iot-security-8ec28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937225253376:android:39272603d608a1e9eb5ee5",
+        "android_client_info": {
+          "package_name": "com.iot.shieldsecuritysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937225253376-mc40v9cskmo5m35d84adhgm1qbnr08pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwqvWvjtM5z1bFkTNoLz4Zm9nqQRCMkDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937225253376-mc40v9cskmo5m35d84adhgm1qbnr08pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
